@@ -22,4 +22,4 @@ Now, as I pursue my Master's in Computer Science with a specialization in Artifi
 
 If you like the value I provide and want to support, consider buying me a coffee so that I can work more on my skills and produce more value added content 🙌
 <br><br>
-<a href="https://www.buymeacoffee.com/havaleshreyash"><img height="40" src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=anirudhbelwadi&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff"></a>
+<a href="https://www.buymeacoffee.com/havaleshreyash"><img height="40" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=anirudhbelwadi&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff"></a>
